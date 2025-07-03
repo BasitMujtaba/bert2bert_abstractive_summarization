@@ -1,0 +1,6 @@
+transformers==4.28.0
+fsspec==2023.6.0
+hf_xet
+datasets==2.17.1
+rouge_score
+torch
